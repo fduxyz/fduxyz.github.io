@@ -1,4 +1,3 @@
-
 ---
 permalink: /member/
 title: ""
