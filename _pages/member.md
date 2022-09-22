@@ -50,7 +50,7 @@
 <br />
 <br />
 <br />
-
+<br />
 <img align="left" width="20%" src="/images/keddaya.png"> 
 
 ## Xiao Ling (co-advised with Xiangyang Xue)
@@ -61,7 +61,7 @@
 <br />
 
 # Alumni
-<img align="left" width="20%" src="/images/leiqiu.jpeg"> 
+<img align="right" width="20%" src="/images/leiqiu.jpeg"> 
 
 ## Yuting Zhai (2018-2021, Master)
 ### Research: <u>PM2.5 influence</u>; <u>animal model</u>
@@ -70,7 +70,7 @@
 <br />
 <br />
 
-<img align="left" width="20%" src="/images/daihema.png"> 
+<img align="right" width="20%" src="/images/daihema.png"> 
 
 ## Xiaoyang Han (2019-2022, Master)
 ### Research: <u>PM2.5</u>;<u> object detection</u>;<u> medical image analysis</u>
