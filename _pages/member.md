@@ -1,4 +1,9 @@
 
+---
+permalink: /member/
+title: ""
+---
+
 # Current students 
 <img align="left" width="20%" src="/images/xiaohuolong.png">  
 
