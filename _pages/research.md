@@ -34,7 +34,12 @@ Automatic segmentation of mouse brain structures in magnetic resonance (MR) imag
 
 Deep learning models, such as convolutional neural networks and self-attention mechanisms, have been shown to be effective in computer-aided diagnosis (CAD) of Alzheimer’s disease (AD) using structural magnetic resonance imaging (sMRI). Most of them use spatial convolutional filters to learn local information from the images. In this paper, we propose a 3D Global Fourier Network (GF-Net) to utilize global frequency information that captures long-range dependency in the spatial domain. The GF-Net contains three primary components: a 3D discrete Fourier transform, an element-wise multiplication between frequency domain features and learnable global filters, and a 3D inverse Fourier transform. The GF-Net is trained by a multi-instance learning strategy to identify discriminative features. Extensive experiments on two independent datasets (ADNI and AIBL) demonstrate that our proposed GF-Net outperforms several state-of-the-art methods in terms of accuracy and other metrics, and can also identify pathological regions of AD.
 
+## Denoising of 3D MR images using a voxel-wise hybrid residual MLP-CNN model to improve small lesion diagnostic confidence
+<p align="center">
+  <img width="60%" src="/images/denoise.png">
+</p> 
 
+Small lesions in magnetic resonance imaging (MRI) images are crucial for clinical diagnosis of many kinds of diseases. However, the MRI quality can be easily degraded by various noise, which can greatly affect the accuracy of diagnosis of small lesion. Although some methods for denoising MR images have been proposed, task-specific denoising methods for improving the diagnosis confidence of small lesions are lacking. In this work, we propose a voxel-wise hybrid residual MLP-CNN model to denoise three-dimensional (3D) MR images with small lesions. We combine basic deep learning architecture, MLP and CNN, to obtain an appropriate inherent bias for the image denoising and integrate each output layers in MLP and CNN by adding residual connections to leverage long-range information. We evaluate the proposed method on 720 T2-FLAIR brain images with small lesions at different noise levels. The results show the superiority of our method in both quantitative and visual evaluations on testing dataset compared to state-of-the-art methods. Moreover, two experienced radiologists agreed that at moderate and high noise levels, our method outperforms other methods in terms of recovery of small lesions and overall image denoising quality. 
 
 # MRI technology
 
@@ -42,14 +47,7 @@ Deep learning models, such as convolutional neural networks and self-attention m
 
 ## CEST
 
-<img align="right" width="40%" src="/images/research/hyperspectral/mixed_pixel.jpg"> 
 
-One application of hyperspectral images is land cover mapping. Land cover information refers to the spatial composition of man-made materials (e.g. asphalt, roof) and green vegetation (e.g. trees, grass) of a particular area, usually an urban area. This information is useful because urban environment is impacted by the spatial distribution of these materials, which in turn impacts the resident health and even global climate. 
 
-Land cover mapping can be achieved by directly classifying the pixels (spectra) in hyperspectral images. However, this requires the hyperspectral image to be collected from an aircraft flying at a low altitude, which is an expensive process. A promising future is to use an orbital spectrometer (onboard a satellite) to collect hyperspectral images continuously. Then, however, the spatial resolution of the collected hyperspectral image will not be promising, i.e. a pixel may corresponds to several meters' area (e.g. 16 m or 30 m diameter) on the earth. In this case, we need some kind of *soft-classification* to find the proportion of different materials in a pixel. This problem is called the *spectral unmixing* problem [...](https://github.com/zhouyuanzxcv/Hyperspectral) 
+## MRS
 
-## Registration and Fusion
-
-Another problem is that a satellite often provides a multispectral image (or a panchromatic image) in addition to the hyperspectral image. A multispectral image has higher spatial resolution than a hyperspectral image but lower spectral resolution. Fusing these two types of images can lead to a both spatially and spectrally high-resolution image. How to spatially calibrate these two images for fusion (i.e. image registration) and how to combine them to produce an image that has both the advantages is another research topic [...](https://github.com/zhouyuanzxcv/Hyperspectral)
-
-![fusion_flowchart](/images/research/hyperspectral/reg_fusion_flowchart.jpg)
