@@ -52,6 +52,7 @@
 <br />
 
 <img align="left" width="20%" src="/images/keddaya.png"> 
+
 ## Xiao Ling (co-advised with Xiangyang Xue)
 ### Research: <u>medical image analysis</u>; <u>clinical disease diagnosis</u>
 
@@ -61,6 +62,7 @@
 
 # Alumni
 <img align="left" width="20%" src="/images/leiqiu-1.jpeg"> 
+
 ## Yuting Zhai (2018-2021, Master)
 ### Research: <u>PM2.5 influence</u>; <u>animal model</u>
 ### Now: civil servant, Jinhua, Zhejiang province
@@ -69,6 +71,7 @@
 <br />
 
 <img align="right" width="20%" src="/images/daihema.png"> 
+
 ## Xiaoyang Han (2019-2022, Master)
 ### Research: <u>PM2.5</u>;<u> object detection</u>;<u> medical image analysis</u>
 ### Now: SenseTime
@@ -77,6 +80,7 @@
 <br />
 
 <img align="right" width="20%" src="/images/jienigui.png">  
+
 ## Botao Zhao (2019-2022, Master)
 ### Research: <u>CEST</u>; <u>sequence denoising</u>;<u> toolbox development</u>
 ### Now: Zhijiang Lab
@@ -85,6 +89,7 @@
 <br />
 
 <img align="right" width="20%" src="/images/piqiu.png">
+
 ## Wenjing Xu (2017-2022, PhD)
 ### Research: <u>rs-fMRI</u>; <u>medical image analysis</u>
 ### Now: United Imaging, Shanghai
@@ -94,6 +99,7 @@
 <br />
 
 <img align="right" width="20%" src="/images/xuelabi.png"> 
+
 ## Ying Liu (2018-2021, Master)
 ### Research: <u>MRS</u>; <u>MRI sequence</u>
 ### Now: PhD student in Fudan University
