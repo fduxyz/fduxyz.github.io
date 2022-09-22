@@ -57,7 +57,7 @@ title: ""
 <br />
 <img align="left" width="20%" src="/images/keddaya.png"> 
 
-## Xiao Ling (co-advised with Xiangyang Xue)
+## Xiao Ling (co-advised with [Xiangyang Xue](https://faculty.fudan.edu.cn/xyxue/zh_CN/xsxx/436222/list/index.htm))
 ### Research: <u>medical image analysis</u>; <u>clinical disease diagnosis</u>
 
 <br />
