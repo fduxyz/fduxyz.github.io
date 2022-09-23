@@ -49,5 +49,12 @@ Small lesions in magnetic resonance imaging (MRI) images are crucial for clinica
 
 
 
-## MRS
+## Differences in brain metabolites in awake and anesthetized mice revealed by 1H-MRS
+<p align="center">
+  <img width="60%" src="/images/mrs.png">
+</p> 
+
+It is important to investigate neural metabolism and brain functions in awake animals for preclinical studies. However, there are few magnetic resonance spectroscopy (MRS) studies in rodents under awake conditions. In this work, we developed an MRI-compatible restraint device for the measurement of brain metabolism in awake mice. Using 1H-MRS, we successfully observed the brain metabolic profile of prefrontal cortex and thalamus in awake mice. In addition, we found metabolic alterations between awake and anesthetized states, indicating that anesthesia has a non-negligible impact on brain metabolism.
+
+
 
