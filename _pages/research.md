@@ -57,4 +57,9 @@ Small lesions in magnetic resonance imaging (MRI) images are crucial for clinica
 It is important to investigate neural metabolism and brain functions in awake animals for preclinical studies. However, there are few magnetic resonance spectroscopy (MRS) studies in rodents under awake conditions. In this work, we developed an MRI-compatible restraint device for the measurement of brain metabolism in awake mice. Using 1H-MRS, we successfully observed the brain metabolic profile of prefrontal cortex and thalamus in awake mice. In addition, we found metabolic alterations between awake and anesthetized states, indicating that anesthesia has a non-negligible impact on brain metabolism.
 
 
+## A high-resolution whole-brain CBF atlas based on more than 100 adult normal mice 
+<p align="center">
+  <img width="60%" src="/images/asl.png">
+</p> 
 
+Arterial spin labeling (ASL) is a powerful MRI technique used to noninvasively measure cerebral blood flow (CBF). In preclinical studies, rodent brain CBF serves as an important indicator in many brain disease models. Therefore, developing a mouse CBF atlas will allow researchers to analyze more efficiently. In this work, we established a whole-brain CBF atlas based on more than 100 adult C57BL/6 mice and profiled CBF distributions in 27 brain regions, which can serve as a reference for MRI-based neuroimaging studies. The usefulness of the atlas was demonstrated by a quantitative comparison of CBF differences between an autism spectrum disorder (ASD) mouse model and healthy controls. 
